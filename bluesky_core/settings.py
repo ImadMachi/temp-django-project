@@ -118,6 +118,7 @@ CORS_ALLOW_ALL_ORIGINS = True
 
 CORS_ALLOWED_ORIGINS = [
     "https://your-frontend-host.com",
+    "http://173.209.40.102:6062"
 ]
 
 # Internationalization
